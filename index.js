@@ -6,4 +6,4 @@ var greetSpecialGuest = "Hello, " + specialGuest + "!";
 
 const topic = 'space';
 
-const conversation = `Let's talk about ${topic}`;
+const conversation = `Let's talk about ${topic}.`;
